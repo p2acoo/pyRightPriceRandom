@@ -1,3 +1,3 @@
 # pyRightPriceRandom
 
-Juste prix, avec un prix random
+Juste prix, avec un prix random.
